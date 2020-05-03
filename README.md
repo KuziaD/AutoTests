@@ -1,0 +1,2 @@
+# AutoTests
+Selenium Python projects
